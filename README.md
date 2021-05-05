@@ -9,7 +9,7 @@ set env to execute the flask app on heroku
 (venv)$heroku config:set FLASK_CONFIG=heroku
 ```
 
-set env to access AWS S3 with the bucket name and access key by created at AWS IAM security credentials
+set env to access AWS S3 with the bucket name and access key being created at AWS IAM security credentials
 
 ```
 (venv)$heroku config:set S3BUCKET=s3_bucket_name
@@ -29,7 +29,7 @@ id `user` is embedded to the source code.
 2. basic authentication appears.
 3. simple UI to upload a file appeas.
 
-![web][img/web.jpg]
+![web](img/web.jpg)
 
 ## s3 mount
 You can mount the s3 bucket to your local file system like this:
