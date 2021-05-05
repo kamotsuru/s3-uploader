@@ -27,7 +27,7 @@ id `user` is embedded to the source code.
 ## usage
 1. access to `https://xxxxxxx-xxxxxx-xxxxxx.herokuapp.com/upload` which is deployed
 2. basic authentication appears.
-3. simple UI to upload a file appeas.
+3. simple UI to upload a file appears.
 
 ![web](img/web.jpg)
 
